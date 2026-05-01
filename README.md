@@ -34,14 +34,6 @@ StadiumFlow AI is a high-performance web dashboard designed to optimize the atte
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/devanshi-kashyap-90a70a37b/  
 
