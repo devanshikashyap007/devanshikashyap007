@@ -22,7 +22,7 @@
 ### 🚀 What I'm Working On
 - 📌 DSA practice (Striver Sheet)
 - 🤖 Beginner AI projects
-- 🌐 Web development fundamentals
+- 🌐 Web development fundamentalshshs
 
 ---
 
